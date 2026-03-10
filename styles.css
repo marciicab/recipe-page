@@ -1,0 +1,46 @@
+.header-banner {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+
+  padding: 1rem;
+  box-sizing: border-box;
+  
+}
+
+.header-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+    border-radius: 15px;
+}
+h1 {
+  font-family: "Young Serif", serif;
+  color: hsl(24, 5%, 18%)
+} 
+h2,h3 {
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%)
+}
+h4{
+    font-family: "Outfit", sans-serif ;
+    font-weight: 700;
+    color: hsl(332, 51%, 32%)
+}
+
+body, p, li {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  color: hsl(30, 10%, 34%);
+}
+
+.recipe-preptime
+{
+background-color: hsl(330, 100%, 98%)
+}
+
+
+
+footer{
+    background-color: hsl(330, 100%, 98%)
+}
